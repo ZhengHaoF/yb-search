@@ -19,6 +19,7 @@
     "@fastify/static": "^10.1.7",
     "fastify": "^5.12.7",
     "tencentcloud-sdk-nodejs-wsa": "^4.1.329",
+    "tsx": "^4.23.15",
     "vue": "^3.5.44"
   },
   "devDependencies": {
@@ -26,7 +27,6 @@
     "@vitejs/plugin-vue": "^6.0.10",
     "concurrently": "^10.0.6",
     "playwright-core": "^1.64.1",
-    "tsx": "^4.23.15",
     "typescript": "^5.9.3",
     "vite": "^8.3.5",
     "vitest": "^5.0.5",
